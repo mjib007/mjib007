@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jackie Chien｜你好，我是錢世傑
-![Visitors](https://visitorbadge.io)
+
 ### ⚖️ Legal Professional & AI Educator ｜ 💻 Bridging Law and Technology with Python ｜ 🤖 Building AI Agents & FinTech Tools
 
 I work at the intersection of **law, education, and technology** — turning legal expertise into Python-powered FinTech APIs, LLM-driven legal assistants, and AI agents that solve real-world problems.
