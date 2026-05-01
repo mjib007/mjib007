@@ -10,7 +10,7 @@ As Executive Director of the Taiwan Law Foundation and a university lecturer in 
 
 ---
 
-## ⭐ Featured Project｜主打專案
+## ⭐ Featured Project｜重點專案
 
 ### 📊 [taiwan-stock-cashflow-api](https://github.com/mjib007/taiwan-stock-cashflow-api)
 
