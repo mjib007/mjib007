@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Jackie Chien｜你好，我是錢世傑
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mjib007.mjib007)
+[![Email](https://img.shields.io/badge/Email-mjib007@gmail.com-red?style=flat&logo=gmail)](mailto:mjib007@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-mjib007-blue?style=flat&logo=facebook)](https://www.facebook.com/mjib007/)
+
+![Jackie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjib007&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjib007&layout=compact)
 
 ### ⚖️ Legal Professional & AI Educator ｜ 💻 Bridging Law and Technology with Python ｜ 🤖 Building AI Agents & FinTech Tools
 
