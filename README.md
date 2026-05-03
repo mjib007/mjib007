@@ -46,7 +46,7 @@ A production-deployed **Flask RESTful API** that automates Taiwan stock cash flo
 
 - **[yolo-stock-pattern-tutorial](https://github.com/mjib007/yolo-stock-pattern-tutorial)** — YOLOv8 stock chart pattern recognition with hands-on Colab notebooks.
 
-  YOLOv8 股票圖形辨識教材，附 Colab 實作教學。
+  YOLOv8 股票圖形辨識教材，附 Colab 實作教學，可以辨識頭肩底、頭肩頂、M頭、W底。
 
 - **[dark-indicator-api](https://github.com/mjib007/dark-indicator-api)** — Custom technical indicator API for advanced market analysis.
 
