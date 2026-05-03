@@ -48,6 +48,8 @@ A production-deployed **Flask RESTful API** that automates Taiwan stock cash flo
 
   YOLOv8 股票圖形辨識教材，附 Colab 實作教學，可以辨識頭肩底、頭肩頂、M頭、W底。
 
+<img src="https://scontent.frmq3-3.fna.fbcdn.net/v/t39.30808-6/690961251_10162792620682966_128958133316489642_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=onbboDMhagkQ7kNvwFLP5uj&_nc_oc=AdrrMXl-1i6XwVoNbVTdpI_X-OJSHCHcVMzx-wrx2sHuO5rlEzIEp_Cr_v5paAjoM2yEwTfiZBKWSeYxqwtrdEBC&_nc_zt=23&_nc_ht=scontent.frmq3-3.fna&_nc_gid=haSMmqm8NEJAcwMcQVXplQ&_nc_ss=7b2a8&oh=00_Af6NfMsRADxVQDHvaa5xmqnxYbsCIllRs8LWsdCG4y3qUA&oe=69FD962B" width="50%">
+
 - **[dark-indicator-api](https://github.com/mjib007/dark-indicator-api)** — Custom technical indicator API for advanced market analysis.
 
   自製技術指標 API，提供進階市場分析。
