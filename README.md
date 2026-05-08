@@ -3,6 +3,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mjib007.mjib007)
 [![Email](https://img.shields.io/badge/Email-mjib007@gmail.com-red?style=flat&logo=gmail)](mailto:mjib007@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-mjib007-blue?style=flat&logo=facebook)](https://www.facebook.com/mjib007/)
+![Public Welfare](https://img.shields.io/badge/2026-Public%20Welfare-heart?color=red)
 
 ### ⚖️ Legal Professional & AI Educator ｜ 💻 Bridging Law and Technology with Python ｜ 🤖 Building AI Agents & FinTech Tools
 
@@ -20,19 +21,27 @@ As Executive Director of the Taiwan Law Foundation and a university lecturer in 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mjib007&theme=default)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mjib007&theme=default)
 
-#https://github-profile-summary-cards.vercel.app/demo.html
-
 ---
 
-## ⭐ Featured Project｜重點專案
+## ⭐ Featured Projects｜重點專案
 
 ### 📊 [taiwan-stock-cashflow-api](https://github.com/mjib007/taiwan-stock-cashflow-api)
 
-A production-deployed **Flask RESTful API** that automates Taiwan stock cash flow analysis, transforming raw FinMind quarterly cumulative data into actionable annual insights via **six proprietary cash flow rules**. Continuously deployed on **Zeabur** with CORS support, ready for frontend integration.
+A production-deployed **Flask RESTful API** that automates Taiwan stock cash flow analysis, transforming raw FinMind quarterly cumulative data into actionable annual insights via **six proprietary cash flow rules**. Continuously deployed on **Zeabur** with CORS support.
 
-已部署上線的 **Flask RESTful API**，串接 FinMind 自動抓取台股財報，運用**六大現金流檢驗法則**，將難以判讀的累計型財務數據轉換為可量化的投資分析摘要。透過 **Zeabur** 實現 CI/CD 自動部署，並支援 CORS 跨域串接。
+已部署上線的 **Flask RESTful API**，串接 FinMind 自動抓取台股財報，運用**六大現金流檢驗法則**，將難以判讀的累計型財務數據轉換為可量化的投資分析摘要。透過 **Zeabur** 實現 CI/CD 自動部署。
 
 `Python` `Flask` `Pandas` `FinMind API` `Zeabur` `RESTful` `CORS`
+
+### 🚢 [Titanic-Analysis](https://github.com/mjib007/Titanic-Analysis)
+
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1HG8aumWRKykZ19iXERe-FVSx1YKxjLbO?usp=sharing)
+
+A comprehensive tutorial designed for legal professionals to master **Data Cleaning** and **Neural Networks**. Featuring a hands-on Colab notebook that analyzes the Titanic tragedy through the lens of logic and justice.
+
+專為法律人與高中生設計的 AI 入門教材。透過鐵達尼號經典案例，引導學習者掌握**資料清洗**與**神經網路**。這不只是程式教學，更是將數據邏輯轉化為法律事實認定的思維訓練。
+
+`Python` `TensorFlow/Keras` `Data Cleaning` `Legal Tech` `Google Colab`
 
 ---
 
@@ -41,37 +50,30 @@ A production-deployed **Flask RESTful API** that automates Taiwan stock cash flo
 ### 📈 FinTech & Investment Analysis｜金融科技與投資分析
 
 - **[daily_stock_analysis](https://github.com/mjib007/daily_stock_analysis)** — LLM-powered analysis system for A/H/US markets: multi-source data + real-time news + LLM decision dashboard.
-
   LLM 驅動的 A/H/美股智能分析師：多數據源 + 實時新聞 + LLM 決策儀表盤。
 
 - **[yolo-stock-pattern-tutorial](https://github.com/mjib007/yolo-stock-pattern-tutorial)** — YOLOv8 stock chart pattern recognition with hands-on Colab notebooks.
-
   YOLOv8 股票圖形辨識教材，附 Colab 實作教學，可以辨識頭肩底、頭肩頂、M頭、W底。
 
 <img src="https://scontent.frmq3-3.fna.fbcdn.net/v/t39.30808-6/690961251_10162792620682966_128958133316489642_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=onbboDMhagkQ7kNvwFLP5uj&_nc_oc=AdrrMXl-1i6XwVoNbVTdpI_X-OJSHCHcVMzx-wrx2sHuO5rlEzIEp_Cr_v5paAjoM2yEwTfiZBKWSeYxqwtrdEBC&_nc_zt=23&_nc_ht=scontent.frmq3-3.fna&_nc_gid=haSMmqm8NEJAcwMcQVXplQ&_nc_ss=7b2a8&oh=00_Af6NfMsRADxVQDHvaa5xmqnxYbsCIllRs8LWsdCG4y3qUA&oe=69FD962B" width="50%">
 
 - **[dark-indicator-api](https://github.com/mjib007/dark-indicator-api)** — Custom technical indicator API for advanced market analysis.
-
   自製技術指標 API，提供進階市場分析。
 
 ### 🤖 AI Agents & LLM Applications｜AI Agent 與 LLM 應用
 
 - **[openclaw](https://github.com/mjib007/openclaw)** 🦞 — Personal AI assistant, any OS, any platform. The lobster way.
-
   跨作業系統、跨平台運作的個人 AI 助理——小龍蝦之道。
 
 - **[autoresearch](https://github.com/mjib007/autoresearch)** — AI agents running automated research on single-GPU nanochat training pipelines.
-
   AI Agent 自動執行單卡 nanochat 訓練研究流程。
 
 ### ⚖️ Legal AI｜法律 AI
 
 - **[ai-legal-assistant](https://github.com/mjib007/ai-legal-assistant)** — AI assistant designed for end-to-end legal workflows.
-
   專為端到端法律工作流程設計的 AI 助理。
 
 - **[legalmind-ai](https://github.com/mjib007/legalmind-ai)** — AI-powered legal judgment analysis and document generation tool.
-
   AI 驅動的法院判決分析與書狀生成工具。
 
 ---
@@ -92,6 +94,10 @@ I develop Jupyter Notebook–based course materials for legal practitioners adop
 
 我開發以 Jupyter Notebook 為基礎的課程教材，協助法律實務工作者導入 LLM。**所有課程收益均捐贈台灣法律基金會**，用於推動法律與科技的跨域人才培育。
 
+**🚀 2026 Milestone: "Knowledge Flow Journey" (知識流動之旅)**
+Planning **188 public welfare AI classes** for students and legal professionals to bridge the digital divide.
+預計於 2026 年舉辦 **188 場公益 AI 課程**，推動科技素養普及化。
+
 ---
 
 ## 🛠 Tech Stack｜技術棧
@@ -100,7 +106,7 @@ I develop Jupyter Notebook–based course materials for legal practitioners adop
 `Python` (primary) ｜ `SQL` ｜ `JavaScript / TypeScript`
 
 **AI / ML**
-`OpenAI GPT-4o` ｜ `Gemini 2.5 Flash` ｜ `Whisper` ｜ `YOLOv8` ｜ `TimesFM 2.5` ｜ `Prophet` ｜ `Chronos-Bolt` ｜ `Scikit-learn` (RUSBoost) ｜ Prompt Engineering
+`OpenAI GPT-4o` ｜ `Gemini` ｜ `Whisper` ｜ `YOLOv8` ｜ `TensorFlow/Keras` ｜ `TimesFM` ｜ `Prophet` ｜ `Scikit-learn` (RUSBoost) ｜ Prompt Engineering
 
 **Backend & Data**｜**後端與資料處理**
 `Flask` ｜ `FastAPI` ｜ `Pandas` ｜ `DuckDB` ｜ `yfinance` ｜ `FinMind` ｜ `python-telegram-bot`
