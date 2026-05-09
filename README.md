@@ -43,6 +43,14 @@ A comprehensive tutorial designed for legal professionals to master **Data Clean
 
 `Python` `TensorFlow/Keras` `Data Cleaning` `Legal Tech` `Google Colab`
 
+### 🎬 [Netflix-Prize-Analysis](https://github.com/mjib007/Netflix-Prize-Recommender-Analysis)
+
+An advanced machine learning case study focused on Recommender Systems and the critical trap of Data Leakage. Using the historic $1M Netflix Prize dataset to explore how "biased ratings" and "improper validation" can deceive AI performance.
+
+從 100 萬美金的歷史競賽出發，深入探討推薦系統與機器學習最危險的「資料洩漏」陷阱。這份教材帶領學習者從混亂的原始數據中重構邏輯，學會辨識「作弊版」與「真實版」模型的數據真相，培養工程師級別的批判性思維。
+
+`Python` `Random Forest` `Feature Engineering` `Data Leakage` `Kaggle`
+
 ---
 
 ## 🚀 What I'm Building｜其他開發中的專案
