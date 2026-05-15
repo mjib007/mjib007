@@ -33,6 +33,16 @@ A production-deployed **Flask RESTful API** that automates Taiwan stock cash flo
 
 `Python` `Flask` `Pandas` `FinMind API` `Zeabur` `RESTful` `CORS`
 
+### 📈 [revenue-yoy-backtest](https://github.com/mjib007/revenue-yoy-backtest)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mjib007/revenue-yoy-backtest/blob/main/01_月營收YoY回測_教材版.ipynb)
+
+A backtesting framework that answers: **"When a stock's monthly revenue YoY exceeds a threshold, what is the win rate of holding for N days?"** Three versions provided — tutorial, single-cell, and natural language input — designed for non-programmers with Vibe Coding in mind.
+
+以「月營收 YoY 超過門檻時買入，持有 N 天的勝率是多少？」為核心問題的回測框架。提供教材版、單格版、自然語言指令版三種格式，專為非程式背景學員設計，支援 Vibe Coding。
+
+`Python` `FinMind` `yfinance` `Backtest` `Google Colab` `Vibe Coding`
+
 ### 🚢 [Titanic-Analysis](https://github.com/mjib007/Titanic-Analysis)
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1HG8aumWRKykZ19iXERe-FVSx1YKxjLbO?usp=sharing)
@@ -86,9 +96,9 @@ An advanced machine learning case study focused on Recommender Systems and the c
 
 ## 🦞 MiniClaw — The Vision Behind These Tools｜小龍蝦：背後的整體願景
 
-Many of my open-source projects are spin-offs from **MiniClaw 小龍蝦**, a solo-developed Telegram-based AI assistant integrating **63 tools across 15 categories** — covering ML trend analysis, financial fraud detection (RUSBoost / JAR2020), TSMC earnings call signal backtesting, time-series forecasting (TimesFM 2.5, Prophet, Chronos-Bolt), legal research, smart home, and more. It's evolving into a comprehensive **AI co-pilot for securities investment**.
+Many of my open-source projects are spin-offs from **MiniClaw 小龍蝦**, a solo-developed Telegram-based AI assistant integrating **70+ tools across 15 categories** — covering ML trend analysis, financial fraud detection (RUSBoost / JAR2020), TSMC earnings call signal backtesting, time-series forecasting (TimesFM 2.5, Prophet, Chronos-Bolt), legal research, smart home, and more. It's evolving into a comprehensive **AI co-pilot for securities investment**.
 
-我的多數開源專案，其實都來自 **MiniClaw 小龍蝦**——一個我獨自開發、整合 **63 個工具、橫跨 15 個類別**的 Telegram AI 助理，涵蓋機器學習趨勢分析、財報舞弊偵測（RUSBoost / JAR2020）、台積電法說會訊號回測、時序預測（TimesFM 2.5、Prophet、Chronos-Bolt）、法律研究、智慧家電等領域，並正逐步演化為**全方面證券投資 AI 助理**。
+我的多數開源專案，其實都來自 **MiniClaw 小龍蝦**——一個我獨自開發、整合 **70+ 個工具、橫跨 15 個類別**的 Telegram AI 助理，涵蓋機器學習趨勢分析、財報舞弊偵測（RUSBoost / JAR2020）、台積電法說會訊號回測、時序預測（TimesFM 2.5、Prophet、Chronos-Bolt）、法律研究、智慧家電等領域，並正逐步演化為**全方面證券投資 AI 助理**。
 
 🚧 Public release on the roadmap.｜公開版本已在規劃中。
 
