@@ -43,6 +43,16 @@ A backtesting framework that answers: **"When a stock's monthly revenue YoY exce
 
 `Python` `FinMind` `yfinance` `Backtest` `Google Colab` `Vibe Coding`
 
+### ⚖️ [contract-review](https://github.com/mjib007/contract-review)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mjib007/contract-review/blob/main/contract_review_colab.ipynb)
+
+An AI-powered contract clause review tutorial that uses LLMs (Gemini / GPT / Claude) to automatically audit contract terms on behalf of a legal department, generating structured analysis reports based on five customizable review rules.
+
+以大語言模型（Gemini / GPT / Claude）自動審查契約條款的教學專案。模擬 B 公司法務部門，依據五條審查規則逐條分析，並產出可下載的分析報告。支援 Fork 後修改資料自行練習，程式自動偵測資料來源。
+
+`Python` `Gemini` `GPT` `Claude` `Legal Tech` `Contract Review` `Google Colab` `Vibe Coding`
+
 ### 🚢 [Titanic-Analysis](https://github.com/mjib007/Titanic-Analysis)
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1HG8aumWRKykZ19iXERe-FVSx1YKxjLbO?usp=sharing)
