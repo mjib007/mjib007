@@ -25,6 +25,15 @@ As Executive Director of the Taiwan Law Foundation and a university lecturer in 
 
 ## ⭐ Featured Projects｜重點專案
 
+### 🎓 [legal-essay-tutor](https://github.com/mjib007/legal-essay-tutor)
+
+A Socratic AI tutor for Taiwan criminal law essay questions, powered by Claude (Anthropic). Offers three learning modes — Socratic dialogue, paragraph-by-paragraph grading, and model answer demonstration — designed for law students, bar exam candidates, and legal educators exploring AI-assisted pedagogy.
+
+以蘇格拉底問答法為核心的刑法申論題 AI 教練，由 Claude（Anthropic）驅動。提供三種學習模式：問答引導、逐段批改、標準答案示範。專為法律系學生、司律考生與探索 AI 輔助教學的法律教育者設計，零技術門檻，複製 Prompt 即可使用。
+
+`Claude` `Prompt Engineering` `Legal AI` `Law Education` `Traditional Chinese`
+
+
 ### 📊 [taiwan-stock-cashflow-api](https://github.com/mjib007/taiwan-stock-cashflow-api)
 
 A production-deployed **Flask RESTful API** that automates Taiwan stock cash flow analysis, transforming raw FinMind quarterly cumulative data into actionable annual insights via **six proprietary cash flow rules**. Continuously deployed on **Zeabur** with CORS support.
