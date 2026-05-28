@@ -33,6 +33,13 @@ A Socratic AI tutor for Taiwan criminal law essay questions, powered by Claude (
 
 `Claude` `Prompt Engineering` `Legal AI` `Law Education` `Traditional Chinese`
 
+### 🏛️ [legal-thesis-outline](https://github.com/mjib007/legal-thesis-outline)
+
+An AI-assisted thesis outline reviewer for law school students. Detects structural flaws in chapter ordering, overly broad chapter titles, and missing transition sections between comparative law and domestic reform analysis. Available in two versions: a Claude SKILL for project-based use, and a universal prompt compatible with ChatGPT, Gemini, and other LLMs.
+
+專為法律系碩士生設計的 AI 論文大綱審查工具。自動偵測章節順序錯誤、章名空泛、比較法與修法建議之間缺少過渡節等常見問題，逐步引導修正。提供兩種版本：Claude 專案 SKILL 版（自動觸發）與通用 Prompt 版（支援 ChatGPT、Gemini 等所有 AI 對話介面）。
+
+`Claude` `ChatGPT` `Prompt Engineering` `Legal AI` `Thesis Writing` `Traditional Chinese`
 
 ### 📊 [taiwan-stock-cashflow-api](https://github.com/mjib007/taiwan-stock-cashflow-api)
 
@@ -104,6 +111,9 @@ An advanced machine learning case study focused on Recommender Systems and the c
   AI Agent 自動執行單卡 nanochat 訓練研究流程。
 
 ### ⚖️ Legal AI｜法律 AI
+
+- **[legal-thesis-outline](https://github.com/mjib007/legal-thesis-outline)** — AI-assisted thesis outline reviewer for law students. SKILL + Prompt dual versions.
+  法律系碩士論文大綱審查工具，提供 Claude SKILL 版與跨平台 Prompt 版。
 
 - **[ai-legal-assistant](https://github.com/mjib007/ai-legal-assistant)** — AI assistant designed for end-to-end legal workflows.
   專為端到端法律工作流程設計的 AI 助理。
