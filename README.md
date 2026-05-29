@@ -25,7 +25,7 @@ As Executive Director of the Taiwan Law Foundation and a university lecturer in 
 
 ## ⭐ Featured Projects｜重點專案
 
-### 🎓 [legal-essay-tutor](https://github.com/mjib007/legal-essay-tutor)
+### 🎓 [法律申論題家教老師legal-essay-tutor](https://github.com/mjib007/legal-essay-tutor)
 
 A Socratic AI tutor for Taiwan criminal law essay questions, powered by Claude (Anthropic). Offers three learning modes — Socratic dialogue, paragraph-by-paragraph grading, and model answer demonstration — designed for law students, bar exam candidates, and legal educators exploring AI-assisted pedagogy.
 
@@ -33,7 +33,7 @@ A Socratic AI tutor for Taiwan criminal law essay questions, powered by Claude (
 
 `Claude` `Prompt Engineering` `Legal AI` `Law Education` `Traditional Chinese`
 
-### 🏛️ [legal-thesis-outline](https://github.com/mjib007/legal-thesis-outline)
+### 🏛️ [法律論文大綱批改小助教legal-thesis-outline](https://github.com/mjib007/legal-thesis-outline)
 
 An AI-assisted thesis outline reviewer for law school students. Detects structural flaws in chapter ordering, overly broad chapter titles, and missing transition sections between comparative law and domestic reform analysis. Available in two versions: a Claude SKILL for project-based use, and a universal prompt compatible with ChatGPT, Gemini, and other LLMs.
 
