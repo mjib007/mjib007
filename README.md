@@ -33,7 +33,7 @@ A Socratic AI tutor for Taiwan criminal law essay questions, powered by Claude (
 
 `Claude` `Prompt Engineering` `Legal AI` `Law Education` `Traditional Chinese`
 
-### 🏛️ [法律論文大綱批改小助教legal-thesis-outline](https://github.com/mjib007/legal-thesis-outline)
+### 🏛️ [法律論文大綱審查工具legal-thesis-outline](https://github.com/mjib007/legal-thesis-outline)
 
 An AI-assisted thesis outline reviewer for law school students. Detects structural flaws in chapter ordering, overly broad chapter titles, and missing transition sections between comparative law and domestic reform analysis. Available in two versions: a Claude SKILL for project-based use, and a universal prompt compatible with ChatGPT, Gemini, and other LLMs.
 
