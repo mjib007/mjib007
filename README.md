@@ -33,7 +33,7 @@ A Socratic AI tutor for Taiwan criminal law essay questions, powered by Claude (
 
 `Claude` `Prompt Engineering` `Legal AI` `Law Education` `Traditional Chinese`
 
-### 🔍 [法學論文題目尋找助教legal-thesis-topic](https://github.com/mjib007/legal-thesis-topic)
+### 🔍 [法學論文題目助教legal-thesis-topic](https://github.com/mjib007/legal-thesis-topic)
 
 An AI-powered thesis topic finder for law school students. Guides students through an 8-step process — from identifying a starting point to confirming a differentiated topic — with built-in checks for research validity, jurisdictional relevance, and differentiation from existing literature. Provides ready-to-use prompts for foreign literature classification and relevance analysis. Available in three versions: Claude SKILL, universal prompt, and interactive web app.
 
