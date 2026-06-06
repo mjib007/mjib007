@@ -33,6 +33,16 @@ A Socratic AI tutor for Taiwan criminal law essay questions, powered by Claude (
 
 `Claude` `Prompt Engineering` `Legal AI` `Law Education` `Traditional Chinese`
 
+### 🔍 [法學論文題目尋找助教legal-thesis-topic](https://github.com/mjib007/legal-thesis-topic)
+
+An AI-powered thesis topic finder for law school students. Guides students through an 8-step process — from identifying a starting point to confirming a differentiated topic — with built-in checks for research validity, jurisdictional relevance, and differentiation from existing literature. Provides ready-to-use prompts for foreign literature classification and relevance analysis. Available in three versions: Claude SKILL, universal prompt, and interactive web app.
+
+專為法律系碩士生設計的 AI 論文題目尋找工具。透過8步驟流程，從找起點到確認差異化題目，內建「介紹vs研究」判斷、台灣管轄權提醒、國內研究現況分析，並提供可直接複製使用的外文文獻分類與關聯性分析指令。提供三種版本：Claude SKILL 版、通用 Prompt 版、互動網頁版。
+
+🌐 [線上體驗](https://mjib007.github.io/legal-thesis-topic/thesis-finder.html)（需 Gemini API Key）
+
+`Claude` `Gemini` `Prompt Engineering` `Legal AI` `Thesis Writing` `Traditional Chinese`
+
 ### 🏛️ [法律論文大綱審查工具legal-thesis-outline](https://github.com/mjib007/legal-thesis-outline)
 
 An AI-assisted thesis outline reviewer for law school students. Detects structural flaws in chapter ordering, overly broad chapter titles, and missing transition sections between comparative law and domestic reform analysis. Available in two versions: a Claude SKILL for project-based use, and a universal prompt compatible with ChatGPT, Gemini, and other LLMs.
@@ -111,6 +121,9 @@ An advanced machine learning case study focused on Recommender Systems and the c
   AI Agent 自動執行單卡 nanochat 訓練研究流程。
 
 ### ⚖️ Legal AI｜法律 AI
+
+- **[legal-thesis-topic](https://github.com/mjib007/legal-thesis-topic)** — AI-assisted thesis topic finder for law students. SKILL + Prompt + Web three versions.
+  法律系碩士論文題目尋找助教，提供 Claude SKILL 版、跨平台 Prompt 版與互動網頁版。
 
 - **[legal-thesis-outline](https://github.com/mjib007/legal-thesis-outline)** — AI-assisted thesis outline reviewer for law students. SKILL + Prompt dual versions.
   法律系碩士論文大綱審查工具，提供 Claude SKILL 版與跨平台 Prompt 版。
