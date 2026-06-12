@@ -23,6 +23,25 @@ As Executive Director of the Taiwan Law Foundation and a university lecturer in 
 
 ---
 
+## 🏛️ Experience｜現職與教學經歷
+
+### 現職
+
+| 職位 | 機構 |
+|------|------|
+| 執行長 | 台灣法律基金會 Taiwan Law Foundation |
+
+### 大學兼任
+
+| 學校 | 系所 | 課程 |
+|------|------|------|
+| 國立中央大學 | 資訊管理學系 | 商事法 |
+| 中原大學 | 財經法律學系 | AI、AI Agent |
+| 輔仁大學 | 進修部法律系 | AI 應用 |
+| 國立中正大學 | 高階法律碩士專班 | AI 文獻分析 |
+
+---
+
 ## ⭐ Featured Projects｜重點專案
 
 ### 🎓 [法律申論題家教老師legal-essay-tutor](https://github.com/mjib007/legal-essay-tutor)
