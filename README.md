@@ -11,9 +11,9 @@ I work at the intersection of **law, education, and technology** — turning leg
 
 我站在**法律、教育與科技**的交界處——把法律專業轉化為 Python 驅動的 FinTech API、LLM 法律助理，以及解決真實問題的 AI Agent。
 
-As Executive Director of the Taiwan Law Foundation and a university lecturer in AI applications, I believe the next generation of legal professionals needs to master both jurisprudence and code.
+As Executive Director of the Taiwan Law Foundation and a university adjunct assistant professor in AI applications, I believe the next generation of legal professionals needs to master both jurisprudence and code.
 
-身為台灣法律基金會執行長與大學 AI 應用課程講師，我相信下一個世代的法律人，需要同時掌握法律思維與程式能力。
+身為台灣法律基金會執行長與大學 AI 應用課程兼任助理教授，我相信下一個世代的法律人，需要同時掌握法律思維與程式能力。
 
 ---
 
