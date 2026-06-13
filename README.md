@@ -116,6 +116,14 @@ An advanced machine learning case study focused on Recommender Systems and the c
 
 `Python` `Random Forest` `Feature Engineering` `Data Leakage` `Kaggle`
 
+### 📚 [台灣法律 × AI 課程教材庫 taiwan-law-ai-course](https://github.com/mjib007/taiwan-law-ai-course)
+
+A structured repository of course materials for law professionals learning AI applications. Each session is organized by date and topic, covering GitHub, AI tools, FinTech, and LegalTech — all taught as part of the Taiwan Law Foundation's public welfare education initiative.
+
+依時間與主題分類的 AI 課程教材庫，專為法律人學習 AI 應用設計。涵蓋 GitHub、AI 工具、FinTech 與 LegalTech 等主題，為台灣法律基金會公益教育計畫的一部分。所有課程收益捐贈基金會。
+
+`GitHub` `AI Education` `LegalTech` `FinTech` `Traditional Chinese` `Public Welfare`
+
 ---
 
 ## 🚀 What I'm Building｜其他開發中的專案
@@ -152,6 +160,9 @@ An advanced machine learning case study focused on Recommender Systems and the c
 
 - **[legalmind-ai](https://github.com/mjib007/legalmind-ai)** — AI-powered legal judgment analysis and document generation tool.
   AI 驅動的法院判決分析與書狀生成工具。
+
+- **[taiwan-law-ai-course](https://github.com/mjib007/taiwan-law-ai-course)** — Structured AI course materials for legal professionals, organized by date and topic.
+  依時間與主題分類的法律人 AI 課程教材庫，含投影片與操作講義。
 
 ---
 
