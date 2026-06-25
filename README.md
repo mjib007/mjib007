@@ -29,7 +29,7 @@ As Executive Director of the Taiwan Law Foundation and a university adjunct assi
 
 | 職位 | 機構 |
 |------|------|
-| 執行長 | 台灣法律基金會 Taiwan Law Foundation |
+| 執行長 | 台灣法學基金會 Taiwan Law Foundation |
 
 ### 大學兼任
 
