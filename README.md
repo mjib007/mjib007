@@ -60,6 +60,14 @@ A Socratic AI tutor for Taiwan criminal law essay questions, powered by Claude (
 
 `Claude` `Prompt Engineering` `Legal AI` `Law Education` `Traditional Chinese`
 
+### 📖 [民法條文解釋教學講義產生器civil-law-interpretation](https://github.com/mjib007/civil-law-interpretation)
+
+An AI-powered Civil Code interpretation and teaching-guide generator, powered by Claude (Anthropic). Given an article of Taiwan's Civil Code, it proactively suggests related provisions, discusses relevant scholarship and case law with the user, and only then generates a structured HTML study guide — complete with element-by-element analysis, teaching cases, and quick-reference mnemonic cards. Supports auto-push of generated guides to GitHub.
+
+貼上民法條文，AI 主動建議關聯條文、與使用者討論學說與實務見解，確認範圍後才產出結構化 HTML 教學講義，包含條文結構解析、要件分析、教學案例與速查卡，核心精神是「用理解取代死背」。支援講義完成後自動推送至 GitHub。
+
+`Claude` `Prompt Engineering` `Legal AI` `Civil Law` `Law Education` `Traditional Chinese`
+
 ### 🔍 [法學論文題目助教legal-thesis-topic](https://github.com/mjib007/legal-thesis-topic)
 
 An AI-powered thesis topic finder for law school students. Guides students through an 8-step process — from identifying a starting point to confirming a differentiated topic — with built-in checks for research validity, jurisdictional relevance, and differentiation from existing literature. Provides ready-to-use prompts for foreign literature classification and relevance analysis. Available in three versions: Claude SKILL, universal prompt, and interactive web app.
@@ -159,6 +167,12 @@ A structured repository of course materials for law professionals learning AI ap
 
 - **[legal-judgment-analysis](https://github.com/mjib007/legal-judgment-analysis)** — AI-powered Taiwan court judgment analyzer that adapts to judgment type and reviews academic commentary. SKILL-based.
   依判決類型自動調整分析架構、並能檢視學者評析的判決分析工具，Claude SKILL 版。
+
+- **[legal-essay-tutor](https://github.com/mjib007/legal-essay-tutor)** — Socratic AI tutor for criminal law essay questions with three learning modes. Prompt-based, zero technical barrier.
+  以蘇格拉底問答法為核心的刑法申論題 AI 教練，Prompt 版，複製即可使用。
+
+- **[civil-law-interpretation](https://github.com/mjib007/civil-law-interpretation)** — AI-powered Civil Code interpretation and teaching-guide generator. SKILL-based, with GitHub auto-push.
+  貼上民法條文即可產生結構化 HTML 教學講義的 AI 工具，Claude SKILL 版，支援自動推送至 GitHub。
 
 - **[legal-thesis-topic](https://github.com/mjib007/legal-thesis-topic)** — AI-assisted thesis topic finder for law students. SKILL + Prompt + Web three versions.
   法律系碩士論文題目尋找助教，提供 Claude SKILL 版、跨平台 Prompt 版與互動網頁版。
