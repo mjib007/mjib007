@@ -44,6 +44,14 @@ As Executive Director of the Taiwan Law Foundation and a university adjunct assi
 
 ## ⭐ Featured Projects｜重點專案
 
+### ⚖️ [台灣法院判決分析 AI 助理legal-judgment-analysis](https://github.com/mjib007/legal-judgment-analysis)
+
+An AI-powered Taiwan court judgment analyzer, powered by Claude (Anthropic). Automatically classifies judgment type (fact-finding trial / Supreme Court unified legal opinion / procedural dismissal) and adapts its analysis structure accordingly — issue mapping, evidence review, visual flowcharts, litigation strategy, and academic commentary review — before drafting appeal briefs.
+
+依判決類型（事實審／最高法院統一見解／程序性裁判）自動調整分析架構的 AI 判決分析工具，由 Claude（Anthropic）驅動。涵蓋爭點對照、證據分析、圖表視覺化、訴訟策略，並能判斷學者評析文章是否具獨立論點，最後協助草擬上訴書狀。
+
+`Claude` `Prompt Engineering` `Legal AI` `Judgment Analysis` `Traditional Chinese`
+
 ### 🎓 [法律申論題家教老師legal-essay-tutor](https://github.com/mjib007/legal-essay-tutor)
 
 A Socratic AI tutor for Taiwan criminal law essay questions, powered by Claude (Anthropic). Offers three learning modes — Socratic dialogue, paragraph-by-paragraph grading, and model answer demonstration — designed for law students, bar exam candidates, and legal educators exploring AI-assisted pedagogy.
@@ -148,6 +156,9 @@ A structured repository of course materials for law professionals learning AI ap
   AI Agent 自動執行單卡 nanochat 訓練研究流程。
 
 ### ⚖️ Legal AI｜法律 AI
+
+- **[legal-judgment-analysis](https://github.com/mjib007/legal-judgment-analysis)** — AI-powered Taiwan court judgment analyzer that adapts to judgment type and reviews academic commentary. SKILL-based.
+  依判決類型自動調整分析架構、並能檢視學者評析的判決分析工具，Claude SKILL 版。
 
 - **[legal-thesis-topic](https://github.com/mjib007/legal-thesis-topic)** — AI-assisted thesis topic finder for law students. SKILL + Prompt + Web three versions.
   法律系碩士論文題目尋找助教，提供 Claude SKILL 版、跨平台 Prompt 版與互動網頁版。
