@@ -68,6 +68,14 @@ An AI-powered Civil Code interpretation and teaching-guide generator, powered by
 
 `Claude` `Prompt Engineering` `Legal AI` `Civil Law` `Law Education` `Traditional Chinese`
 
+### 🚋 [蘇格拉底鏈式問答：電車難題socratic-trolley](https://github.com/mjib007/socratic-trolley)
+
+A Socratic questioning practice tool built around the classic Trolley Problem, powered by Claude (Anthropic). Instead of handing over an answer, it walks the user through six categories of Socratic questioning — clarifying thought, challenging assumptions, demanding evidence, exploring alternative viewpoints, probing consequences, and questioning the question itself — to train critical thinking and the ability to articulate one's own reasoning.
+
+以經典的「電車難題」為題材的蘇格拉底問答練習工具，由 Claude（Anthropic）驅動。不直接給答案，而是透過六類蘇格拉底式提問（理清思維、挑戰假設、要求證據、多元觀點、探索後果、質疑問題本身），一步步引導使用者想清楚自己的選擇與理由，訓練批判性思維與論述能力。
+
+`Claude` `Prompt Engineering` `Socratic Method` `Critical Thinking` `Education` `Traditional Chinese`
+
 ### 🔍 [法學論文題目助教legal-thesis-topic](https://github.com/mjib007/legal-thesis-topic)
 
 An AI-powered thesis topic finder for law school students. Guides students through an 8-step process — from identifying a starting point to confirming a differentiated topic — with built-in checks for research validity, jurisdictional relevance, and differentiation from existing literature. Provides ready-to-use prompts for foreign literature classification and relevance analysis. Available in three versions: Claude SKILL, universal prompt, and interactive web app.
@@ -173,6 +181,9 @@ A structured repository of course materials for law professionals learning AI ap
 
 - **[civil-law-interpretation](https://github.com/mjib007/civil-law-interpretation)** — AI-powered Civil Code interpretation and teaching-guide generator. SKILL-based, with GitHub auto-push.
   貼上民法條文即可產生結構化 HTML 教學講義的 AI 工具，Claude SKILL 版，支援自動推送至 GitHub。
+
+- **[socratic-trolley](https://github.com/mjib007/socratic-trolley)** — Socratic questioning practice tool using the Trolley Problem, with six categories of guided questioning. SKILL-based.
+  以電車難題練習蘇格拉底問答的工具，內建六類提問法引導思考，Claude SKILL 版。
 
 - **[legal-thesis-topic](https://github.com/mjib007/legal-thesis-topic)** — AI-assisted thesis topic finder for law students. SKILL + Prompt + Web three versions.
   法律系碩士論文題目尋找助教，提供 Claude SKILL 版、跨平台 Prompt 版與互動網頁版。
