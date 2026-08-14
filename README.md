@@ -60,7 +60,7 @@ A Socratic AI tutor for Taiwan criminal law essay questions, powered by Claude (
 
 `Claude` `Prompt Engineering` `Legal AI` `Law Education` `Traditional Chinese`
 
-### 📖 [民法條文解釋教學講義產生器civil-law-interpretation](https://github.com/mjib007/civil-law-interpretation)
+### 📖 [法律學習歷程紀錄器civil-law-interpretation](https://github.com/mjib007/civil-law-interpretation)
 
 An AI-powered Civil Code interpretation and teaching-guide generator, powered by Claude (Anthropic). Given an article of Taiwan's Civil Code, it proactively suggests related provisions, discusses relevant scholarship and case law with the user, and only then generates a structured HTML study guide — complete with element-by-element analysis, teaching cases, and quick-reference mnemonic cards. Supports auto-push of generated guides to GitHub.
 
