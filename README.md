@@ -44,6 +44,16 @@ As Executive Director of the Taiwan Law Foundation and a university adjunct assi
 
 ## ⭐ Featured Projects｜重點專案
 
+### 📘 [公司法教學案例集 company-law-cases](https://github.com/mjib007/company-law-cases)
+
+An open, PR-based teaching repository for a university Company Law course, built around real news events rather than court judgments. Students submit case analyses via Pull Request; a GitHub Actions pipeline calls Claude to run automated preliminary review and suggested scoring against a five-criteria rubric, complete with prompt-injection defenses, privacy-preserving name masking, branch protection, and CODEOWNERS safeguards for a fully public repository.
+
+以真實新聞事件（而非單純法院判決）為教材核心的公開商事法課程教學 repo。學生透過 Pull Request 提交案例分析，串接 GitHub Actions 每日自動呼叫 Claude 進行初步審查與五項標準建議評分；針對公開 repo 的特性，內建提示詞注入（Prompt Injection）防制、姓名學號隱私遮蔽、branch protection 與 CODEOWNERS 等安全機制。
+
+🌐 [線上總覽頁](https://mjib007.github.io/company-law-cases/)
+
+`Claude` `GitHub Actions` `Prompt Engineering` `Legal AI` `Company Law` `Law Education` `Traditional Chinese`
+
 ### ⚖️ [台灣法院判決分析 AI 助理legal-judgment-analysis](https://github.com/mjib007/legal-judgment-analysis)
 
 An AI-powered Taiwan court judgment analyzer, powered by Claude (Anthropic). Automatically classifies judgment type (fact-finding trial / Supreme Court unified legal opinion / procedural dismissal) and adapts its analysis structure accordingly — issue mapping, evidence review, visual flowcharts, litigation strategy, and academic commentary review — before drafting appeal briefs.
@@ -172,6 +182,9 @@ A structured repository of course materials for law professionals learning AI ap
   AI Agent 自動執行單卡 nanochat 訓練研究流程。
 
 ### ⚖️ Legal AI｜法律 AI
+
+- **[company-law-cases](https://github.com/mjib007/company-law-cases)** — Public, PR-based Company Law teaching repository with a GitHub Actions pipeline for automated Claude review and suggested scoring.
+  公開的商事法教學 PR 案例集，串接 GitHub Actions 自動 Claude 審查與建議評分。
 
 - **[legal-judgment-analysis](https://github.com/mjib007/legal-judgment-analysis)** — AI-powered Taiwan court judgment analyzer that adapts to judgment type and reviews academic commentary. SKILL-based.
   依判決類型自動調整分析架構、並能檢視學者評析的判決分析工具，Claude SKILL 版。
